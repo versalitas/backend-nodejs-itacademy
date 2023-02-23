@@ -1,5 +1,5 @@
 
-
+//TODO add absolute paths
 /*Exercici 1.5.1.1==============================
 
 Crea una funció que imprimeixi recursivament 
